@@ -1,0 +1,25 @@
+.status-caption {
+	padding: 4px 6px;
+	font-weight: bold;
+	font-size: 16px;
+	color: #fff;
+	display: inline-block;
+	border-radius: 3px;
+}
+
+.status-caption-progress {
+	background-color: orange;
+}
+
+.status-caption-started {
+	background-color: royalblue;
+}
+
+.status-caption-finished {
+	background-color: yellowgreen;
+}
+
+
+.status-caption-any {
+	background-color: red;
+}
